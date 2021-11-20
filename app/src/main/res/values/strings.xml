@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tip_calculator</string>
+    <string-array name="Tips">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+    </string-array>
+    <string name="currency">0123456789.</string>
+    <string-array name="choice">
+        <item>Worship</item>
+        <item>Grovel</item>
+        <item>Beg</item>
+    </string-array>
+</resources>
